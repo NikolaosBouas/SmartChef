@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Smart Chef</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title">Title</string>
+    <string name="instruction_fragment">Instruction Fragment</string>
+    <string name="fragment_error">Fragment error</string>
+    <string name="video_fragment">Video Fragment</string>
+    <string name="step_postition">stepPosition</string>
+    <string name="position">Position</string>
+    <string name="next">Next Step</string>
+    <string name="empty">Empty</string>
+    <string name="heading">Heading</string>
+    <string name="nutella_pie">Nutella Pie</string>
+    <string name="brownies">Brownies</string>
+    <string name="choose_recipe">Please choose one of the following recipes to appear in the widget</string>
+    <string name="yellow_cake">Yellow Cake</string>
+    <string name="cheesecake">Cheesecake</string>
+    <string name="previous">Previous step</string>
+    <string name="config">Start widget</string>
+    <string name="no_previous_steps">There are no previous steps.</string>
+    <string name="no_further_steps">All done!!No further steps required.</string>
+
+</resources>
